@@ -134,7 +134,7 @@ public class Main {
 
 					}
 
-				} else if (usuarioLogado.IsAdmin()) {//if Admin
+				} else if (usuarioLogado.IsAdmin()) {
 					System.out.println();
 					System.out.println("Escolha uma empresa para consultar: ");
 					System.out.println();
@@ -210,6 +210,8 @@ public class Main {
 				}//fim switch
 					
 				}else {
+					System.out.println("Escolha uma opção para iniciar: ");
+					System.out.println();
 					System.out.println("1 - Relizar Compras");
 					System.out.println("2 - Ver Compras");
 					System.out.println("0 - Deslogar");
