@@ -40,13 +40,13 @@ A minha abordagem foi, confirmar novamente dentro do metodo de escolha da empres
 
 
 ## Experiencia do Usuario
-Realizei a mudança da ordem dos codigos da empresa para ficar mais intuitivo e nao induzir ao erro.
+7 -Realizei a mudança da ordem dos codigos da empresa para ficar mais intuitivo e nao induzir ao erro.
 ![image](https://user-images.githubusercontent.com/110640214/232157742-2c920874-90ae-4b1c-a4b3-bac924276c5f.png)
 
-Inseri tambem a mensagem compra realizada com sucesso para melhor experiencia do usuario.
+8 - Inseri tambem a mensagem compra realizada com sucesso para melhor experiencia do usuario.
 ![image](https://user-images.githubusercontent.com/110640214/232158084-e46b3aae-4627-4a2b-90f6-0a7fb63beaee.png)
 
-Inseri a frase Escolha uma opçao para iniciar e escolha uma empresa para consultar. Para melhor entendimento do usuario, seja empresa, administrador ou cliente.
+9 - Inseri a frase Escolha uma opçao para iniciar e escolha uma empresa para consultar. Para melhor entendimento do usuario, seja empresa, administrador ou cliente.
 
 ![image](https://user-images.githubusercontent.com/110640214/232158461-e5d82e78-d802-4d26-b3d7-8e5d53ef6756.png)
 
@@ -63,25 +63,4 @@ Inseri a frase Escolha uma opçao para iniciar e escolha uma empresa para consul
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
