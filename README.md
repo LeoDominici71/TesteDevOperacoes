@@ -6,7 +6,10 @@ O projeto e um aplicativo a qual empresas conseguem acessar atraves de um login 
 
 ## Regras de negocio
 1- Quando o administrador acessava com seu usuario, estava apenas acessando o aplicativo como um cliente. De acordo com a regra de negocio numero 2, o administrador devera ser quem acessa os dados da empresa alem da propria empresa.
+
 ![image](https://user-images.githubusercontent.com/110640214/232152107-ba6c8d00-628c-4de5-aae5-7e8b7e3eaff3.png)
+
+
 
 
 ## Layout web
